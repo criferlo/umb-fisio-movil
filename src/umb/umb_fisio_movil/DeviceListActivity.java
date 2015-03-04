@@ -2,7 +2,7 @@ package umb.umb_fisio_movil;
 
 import java.util.Set;
 
-import android.support.v7.app.ActionBarActivity;
+
 import android.app.Activity;
 import android.bluetooth.BluetoothAdapter;
 import android.bluetooth.BluetoothDevice;
@@ -23,7 +23,7 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.AdapterView.OnItemClickListener;
 
-public class DeviceListActivity extends ActionBarActivity {
+public class DeviceListActivity extends Activity {
 
 	// Return Intent extra
     public static String EXTRA_DEVICE_ADDRESS = "device_address";

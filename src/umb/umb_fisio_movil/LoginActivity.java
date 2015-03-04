@@ -1,7 +1,7 @@
 package umb.umb_fisio_movil;
 
 import umb.servicios.WSLogin;
-import android.support.v7.app.ActionBarActivity;
+import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
@@ -11,7 +11,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-public class LoginActivity extends ActionBarActivity {
+public class LoginActivity extends Activity {
 
 	TextView texto;
 	EditText numeroHistoria;
