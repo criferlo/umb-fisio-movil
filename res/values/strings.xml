@@ -7,5 +7,7 @@
     <string name="title_activity_device_list">DeviceListActivity</string>
     <string name="none_paired">none_paired</string>
     <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_educacion_paciente">Educación para el paciente</string>
+    <string name="title_activity_terapias_predeterminadas">Terapias predeterminadas</string>
 
 </resources>

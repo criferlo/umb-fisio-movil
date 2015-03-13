@@ -22,26 +22,46 @@ public final class R {
         public static final int activity_vertical_margin=0x7f040001;
     }
     public static final class drawable {
-        public static final int escudo=0x7f020000;
-        public static final int ic_launcher=0x7f020001;
+        public static final int buenaalimentacion1=0x7f020000;
+        public static final int buenaalimentacion2=0x7f020001;
+        public static final int buenaalimentacion3=0x7f020002;
+        public static final int buenaalimentacion4=0x7f020003;
+        public static final int carro=0x7f020004;
+        public static final int ejercicio1=0x7f020005;
+        public static final int ejercicio2=0x7f020006;
+        public static final int ejercicio3=0x7f020007;
+        public static final int ejercicio4=0x7f020008;
+        public static final int ejercicio5=0x7f020009;
+        public static final int ejercicio6=0x7f02000a;
+        public static final int escudo=0x7f02000b;
+        public static final int evitteescaleras=0x7f02000c;
+        public static final int evitteescaleras2=0x7f02000d;
+        public static final int generales=0x7f02000e;
+        public static final int ic_launcher=0x7f02000f;
+        public static final int medidasposturales=0x7f020010;
+        public static final int posturasdepie=0x7f020011;
     }
     public static final class id {
-        public static final int action_settings=0x7f080009;
-        public static final int button1=0x7f080007;
+        public static final int action_settings=0x7f08000b;
+        public static final int button1=0x7f080008;
         public static final int button_scan=0x7f080004;
-        public static final int editText1=0x7f080008;
-        public static final int imageView1=0x7f080005;
+        public static final int editText1=0x7f080009;
+        public static final int gallery1=0x7f080005;
+        public static final int gallery2=0x7f08000a;
+        public static final int imageView1=0x7f080006;
         public static final int new_devices=0x7f080003;
         public static final int paired_devices=0x7f080001;
         public static final int title_new_devices=0x7f080002;
         public static final int title_paired_devices=0x7f080000;
-        public static final int txtResultado=0x7f080006;
+        public static final int txtResultado=0x7f080007;
     }
     public static final class layout {
         public static final int activity_device_list=0x7f030000;
-        public static final int activity_login=0x7f030001;
-        public static final int activity_main=0x7f030002;
-        public static final int device_name=0x7f030003;
+        public static final int activity_educacion_paciente=0x7f030001;
+        public static final int activity_login=0x7f030002;
+        public static final int activity_main=0x7f030003;
+        public static final int activity_terapias_predeterminadas=0x7f030004;
+        public static final int device_name=0x7f030005;
     }
     public static final class menu {
         public static final int device_list=0x7f070000;
@@ -54,7 +74,9 @@ public final class R {
         public static final int hello_world=0x7f050001;
         public static final int none_paired=0x7f050004;
         public static final int title_activity_device_list=0x7f050003;
+        public static final int title_activity_educacion_paciente=0x7f050006;
         public static final int title_activity_login=0x7f050005;
+        public static final int title_activity_terapias_predeterminadas=0x7f050007;
     }
     public static final class style {
         /** 
